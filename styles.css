@@ -1,0 +1,153 @@
+body {
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 562.5%;
+  color: #FFF1AF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #FFC286;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFC286;
+}
+
+.top-container {
+  background-color: #66806A;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  padding-top: 100px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+
+  .btn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #FFC286;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position:relative;
+top:20px;
+}
+
+.btn:hover {
+  background: #FFF1AF;
+  text-decoration: none;
+}
+
+
+.skill-row {
+  width: 50%;
+  position: relative;
+  margin: 100px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.code{
+  height:250px;
+  float:left;
+  margin-right:30px;
+}
+
+.digital-art{
+
+  height:250px;
+  float:right;
+margin-left:30;
+}
+hr{
+  width: 5%;
+  border-top-style: dotted;
+  border-bottom: none;
+  border-color:#B4C6A6;
+  border-top-width:thick;
+}
+
+.digital-art-title{
+  padding-top:50px;
+}
+
+.bottom-container{
+  background-color:#66806A;
+  height:150px;
+
+}
+
+.intro{
+width: 50%;
+position: relative;
+left:25%;
+right:25%;
+padding: 20px 0 40px 0;
+color: #40514E
+}
+
+.codinggirl{
+padding-top: 80px;
+}
+
+.skills{
+padding: 80px 0 80px;
+}
+
+.linkedin-link{
+  position:relative;
+  color:#B4C6A6;
+  top: 40px;
+}
+.instagram-link{
+  position:relative;
+  color:#B4C6A6;
+  top: 40px;
+  padding: 0 5px 0 5px;
+}
+.facebook-link{
+  position:relative;
+  color:#B4C6A6;
+  top: 40px;
+}
+.footer-p{
+  position: relative;
+  padding: 50px 10px 10px 10px;
+  text-align: center;
+  color:#EAF6F6;
+}
+.contact-me{
+  padding: 30px 0 50px 0;
+  line-height: 30px;
+}
